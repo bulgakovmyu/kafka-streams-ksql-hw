@@ -1,0 +1,1 @@
+python "/Users/Mikhail_Bulgakov/GitRepo/kafka-streams-ksql-hw/faust_streams_expedia.py" --datadir="/Users/Mikhail_Bulgakov/GitRepo/kafka-streams-ksql-hw/data/faust_data" worker
